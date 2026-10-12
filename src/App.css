@@ -1,0 +1,29 @@
+
+.btn-navy {
+  background-color: #1f3b73;
+  color: white;
+  border-color: #1f3b73;
+}
+
+
+.btn-navy:hover {
+  background-color: #17305f;
+  color: white;
+  border-color: #17305f;
+}
+
+
+.breadcrumb-dark {
+  --bs-breadcrumb-divider-color: #cccccc;
+  --bs-breadcrumb-item-active-color: white;
+}
+
+
+.avatar-box {
+  background-color: #c9cacc;
+  height: 85px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  overflow: hidden;
+}
